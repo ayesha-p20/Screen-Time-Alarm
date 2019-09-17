@@ -1,1 +1,1 @@
-# Screen-Time-Alarm
+# Screen-Time-Alarm Application
