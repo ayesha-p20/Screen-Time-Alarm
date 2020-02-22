@@ -1,4 +1,4 @@
-# Screen-Time-Alarm Application
+# Screen-Time-Alarm Application - tuby rails
 This desktop application helps the user set a 'Screen-Time' alarm which is inessence a reminder to stop using electronic gadgets. In addition to an audible reminder, the application also displays a pop up window to notify the user of the alarm. 
 ## Built with
 This application has been created in Python 3.7.0 using tkinter

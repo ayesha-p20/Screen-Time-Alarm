@@ -21,7 +21,6 @@ def remind_win():
     y_val = pc_height/2 - 75
     remind_win.geometry("250x150+%d+%d"%(x_val,y_val))
     remind_win.resizable(0,0)
-    remind_win.minsize(250,150)
     lab1 = Label(remind_win,text = "REMINDER")
     lab1.place(x=85,y=25)
     lab2 = Label(remind_win,text = "YOUR SCREEN TIME IS UP!")
